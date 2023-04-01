@@ -3,7 +3,6 @@
 
 - 📫 How to reach me **mattia.fasulo@gmail.com**
 
-- ⚡ Fun fact **I'm convinced that computer science has much in common with philosophy. Both deal with how the world works on a fairly fundamental level. The difference, of course, is that while in philosophy you have to understand how the world is made, in computer science you create it. Within the confines of the computer, you are the creator. You control, at least potentially, everything that happens to you. If you're good enough, you can be a god, on a small scale.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
