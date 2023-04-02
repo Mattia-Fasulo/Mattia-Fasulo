@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mattia</h1>
 - 🌱 I’m currently learning **Java and Spring**
 
-- 📫 How to reach me **mattia.fasulo@gmail.com**
+
 
 
 <h3 align="left">Connect with me:</h3>
