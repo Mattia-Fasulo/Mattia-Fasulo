@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mattia</h1>
-- 🌱 I’m currently learning **Java 8 and Spring**
+- 🌱 I’m currently learning **Java and Spring**
 
 
 
